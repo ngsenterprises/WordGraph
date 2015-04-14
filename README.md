@@ -1,1 +1,1 @@
-# my readme file
+# trie data structure for word graph
